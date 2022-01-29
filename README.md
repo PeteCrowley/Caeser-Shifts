@@ -1,6 +1,6 @@
 # Caeser-Shifts
 
-A Ceaser Shift encoder, decoder, and cracker
+A Ceaser Shift encoder, decoder, and cracker. Graphical User Interface coded using TKinter.
 
 
 
